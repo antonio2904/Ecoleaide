@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "551225114818",
+    "firebase_url": "https://ecoleaide-243d2.firebaseio.com",
+    "project_id": "ecoleaide-243d2",
+    "storage_bucket": "ecoleaide-243d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551225114818:android:667b6236a639aa9f",
+        "android_client_info": {
+          "package_name": "com.example.antonio.ecoleaide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551225114818-h874je5uh7trqqm156q6e3rrjv6roukk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antonio.ecoleaide",
+            "certificate_hash": "d0db7506ec6e1a845f9f1e71d4e80f2dde1a305a"
+          }
+        },
+        {
+          "client_id": "551225114818-p5mnumvflpbc9en99kitgdigka0fe2ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCceJVWH0oWtNdZJPCcjq_0FqXA2oKsH1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551225114818-p5mnumvflpbc9en99kitgdigka0fe2ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
